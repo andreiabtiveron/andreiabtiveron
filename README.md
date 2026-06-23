@@ -1,18 +1,7 @@
 <div align="center">
 
-```
-  _  .-')      _ (`-.  ('-.  _  .-')     ('-.     .-') _  
- ( \( -O )    ( (OO  )_(  OO)( \( -O )  ( OO ).-.(  OO) ) 
-  ,------.   _.`     (,------.,------.   / . --. //     '._ 
-  |   /`. '(__...--'' |  .---'|   /`. '  | \-.  \ |'--...__) 
-  |  /  | | |  /  | | |  |   |  /  | |.-'-'  |  |'--.  .--' 
-  |  |_.' | |  |_.' |(|  '--. |  |_.' | \| |_.'  |   |  |   
-  |  .  '.' |  .___.' |  .--' |  .  '.'  |  .-.  |   |  |   
-  |  |\  \  |  |      |  `---.|  |\  \   |  | |  |   |  |   
-  `--' '--' `--'      `------'`--' '--'  `--' `--'   `--'   
-```
+![wave](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Andreia%20Tiveron&fontSize=48&fontColor=ffffff&fontAlignY=55&desc=backend%20engineer%20·%20devops%20enthusiast&descSize=16&descAlignY=75&descColor=a0a0b0)
 
-### backend engineer · devops enthusiast · infrastructure as code
 
 </div>
 
@@ -20,8 +9,7 @@
 
 ### about
 
-Construindo sistemas que escalam, pipelines que automatizam e infraestrutura que não quebra às 3h da manhã.
-Apaixonada por arquitetura limpa, observabilidade e fazer as coisas funcionarem de verdade.
+Estudante de Ciências da Computação, com foco em backend e DevOps
 
 ---
 
