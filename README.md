@@ -51,6 +51,6 @@ Docker · Kubernetes · Terraform · GitHub Actions · AWS · Linux
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andreiativeron)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:andreiabtiveron@gmail.com)
+<a href="mailto:andreiabtiveron@gmail.com">[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:andreiabtiveron@gmail.com)
 
 </div>
